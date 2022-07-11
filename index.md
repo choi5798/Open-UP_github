@@ -1,3 +1,5 @@
+# Open UP 깃허브 특강 - github.io 를 이용한 개인 포트폴리오 만들기
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/choi5798/Open-UP_github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
